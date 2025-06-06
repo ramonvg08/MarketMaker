@@ -50,7 +50,7 @@ Todo esto se ofrece en una interfaz moderna, responsive y clara, pensada para fa
 
 ---
 
-📌 Próximas Mejoras (ideas)
+## 📌 Próximas Mejoras (ideas)
 🔍 Filtros por activos, países o sectores en el visor de noticias.
 
 ⚙️ Modo oscuro automático según la hora.
@@ -61,16 +61,16 @@ Todo esto se ofrece en una interfaz moderna, responsive y clara, pensada para fa
 
 ---
 
-🌐 Enlaces
+## 🌐 Enlaces
 
 Sitio web: https://ramonvg08.github.io/MarketMaker/
 
 ---
 
-👨‍💻 Autor
+##👨‍💻 Autor
 Ramón Valverde
 Desarrollado como parte del módulo de Diseño de Interfaces Web del ciclo superior de Desarrollo de Aplicaciones Web.
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto se publica bajo la licencia MIT.
 Puedes utilizarlo libremente con fines educativos o personales.
