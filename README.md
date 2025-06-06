@@ -69,6 +69,7 @@ Sitio web: https://ramonvg08.github.io/MarketMaker/
 
 ## 👨‍💻 Autor
 Ramón Valverde García.
+
 Desarrollado como parte del módulo de Diseño de Interfaces Web del ciclo superior de Desarrollo de Aplicaciones Web.
 
 ## 📄 Licencia
